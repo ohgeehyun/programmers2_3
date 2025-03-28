@@ -9,6 +9,7 @@
 #include <string>
 #include <vector>
 #include <optional>
+#include <iostream>
 
 using namespace std;
 vector<vector<int>> answer;
@@ -38,7 +39,7 @@ vector<vector<int>> solution(int n) {
 
 int main()
 {
-    cout    <<  "Hello, word"   <<  endl;
+   std::cout <<  "Hello, word"   <<  endl;
 }
 
  
